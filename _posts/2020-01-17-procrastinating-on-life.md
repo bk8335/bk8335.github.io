@@ -22,4 +22,4 @@ I tweeted:
 [If you're not having fun you should be doing something productive. If you're not doing something productive you should be having fun.
 My procrastination free 2020 goal is to avoid the middle ground](https://twitter.com/HolfolioBen/status/1213452673355321344)
 
-For me, this middle ground to avoid is stupid youtube wormholes and too many pointless reddit threads (the more time you spend on reddit, the more you realise how little of it is new). And to give myself permission to enjoy myself more. Hopefully having more proper downtime (instead of anxiety from not doing anything), will free myself up for more productive pusuits at other times of the day, and achieve more overall.
+For me, this middle ground to avoid is stupid youtube wormholes and too many pointless reddit threads (the more time you spend on reddit, the more you realise how little of it is new). And to give myself permission to enjoy myself more. Hopefully having more proper downtime (instead of anxiety from not doing anything), will free myself up for more productive pursuits at other times of the day, and achieve more overall.
