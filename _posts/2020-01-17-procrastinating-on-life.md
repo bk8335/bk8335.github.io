@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Procrasting on life?"
+title:  "Procrastinating on life?"
 date:   2020-01-17 20:00:00
 categories: misc
 ---
 
-(Apologies in advance for sounding like such a cliched snowflake milennial. Having since gone to the gym I already feel better, but in some ways that is only helping to mask the feelings below...)
+(Apologies in advance for sounding like such a cliched snowflake millennial. Having since gone to the gym I already feel better, but in some ways that is only helping to mask the feelings below...)
 
 The recent Christmas/New Year's break feels like the longest I've had off work in a long time, and the dread of going back to work (having already switched careers once) has made this bubble up again...
 
