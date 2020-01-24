@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Allure of Beating the Market"
-date:   2020-01-24 20:00:00
+date:   2020-01-24 19:45:00
 categories: investing
 ---
 
