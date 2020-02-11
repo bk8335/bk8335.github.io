@@ -16,8 +16,8 @@
 title: Holfolio Ben
 email: hello@holfolio.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog about tech, finance, and trying to start my own company.
-baseurl: "" # the subpath of your site, e.g. /blog
+  A blog about building holfolio.com as well as tech and finance discussions.
+baseurl: "https://www.holfolio.com" # the subpath of your site, e.g. /blog
 url: "holfolioben.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: holfolioben
 
