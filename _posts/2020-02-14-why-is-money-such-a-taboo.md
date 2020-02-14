@@ -5,7 +5,7 @@ date:   2020-02-14 09:00:00
 categories: finance
 ---
 
-There was also a good article in the Guardian this week looking at how wealth disparities can [tear apart friendships].(https://www.theguardian.com/lifeandstyle/2020/feb/11/the-wealth-gap-how-changing-fortunes-tear-close-friends-apart)
+There was also a good article in the Guardian this week looking at how wealth disparities can [tear apart friendships](https://www.theguardian.com/lifeandstyle/2020/feb/11/the-wealth-gap-how-changing-fortunes-tear-close-friends-apart).
 I first wrote something similar in April 2018 [here](https://benkinnard.substack.com/p/why-is-personal-finance-so-anti-social-5a13863eca1) and expand upon it more here.
 
 We have social networks for everything nowadays, e.g. running (Strava), dieting (MyFitnessPal), work (LinkedIn), side hustles (IndieHackers), etc. but as soon as it comes to money, suddenly everyone becomes very secretive and private and won’t share how they are doing. It's ok to show off your expensive looking holiday on instagram, but actually discussing the cost is taboo. It's one of the reasons luxury brands succeed, as they are effectively a medium to display that you have money without being so vulgar as to talk about it directly.
@@ -17,5 +17,5 @@ But not talking about money is ironically enough costing us money. Because of th
 
 That might all sound too idealistic and naive. Because of the self-worth being tied to financial worth, people might be slow to do this. But as they say, [on the internet, no one knows you're a dog](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog). Online you could use the pseudonymity to hide your true identity, freeing yourself up to be more open about finance and investments.  
 
-In an age where we share everything, being more public about our finances might encourage us to realise greater financial freedom. And that is the basic idea behind [Holfolio][(https://www.holfolio.com) - be more open to help you and others chart the financial markets without having to pay through the nose for advice.
+In an age where we share everything, being more public about our finances might encourage us to realise greater financial freedom. And that is the basic idea behind [Holfolio](https://www.holfolio.com) - be more open to help you and others chart the financial markets without having to pay through the nose for advice.
 
